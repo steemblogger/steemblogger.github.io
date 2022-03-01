@@ -15,7 +15,7 @@ You can find my blog from [https://steemblogger.github.io/@jackzeng6666](https:/
 
 To use the blog service, we simply add your steem account name to the account list of this project, then the synchronization will be done daily automatically.
 
-You may contact [@jackzeng6666](https://steemit.com/jackzeng6666) if you need help to setup the service in steemblogger.
+Learn more at [Stemmit Post](https://steemit.com/steemblogger/@jackzeng6666/steemblogger).
 
 
 ![Pixabay](https://cdn.pixabay.com/photo/2015/06/01/09/04/blog-793047_1280.jpg)
