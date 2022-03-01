@@ -30,7 +30,15 @@ widgets:
 您可[点此](https://steemblogger.github.io/@jackzeng6666/)查看demo。
 
 ### 如何使用
-在本文下方留言并转移1STEEM至@jackzeng6666(看不到留言模块？请尝试通过[Steemit](https://steemit.com/steemblogger/@jackzeng6666/steemblogger)访问，要求转移1STEEM是因为本服务所使用的Actions并不完全免费)，我们会将您的用户名添加至同步列表。
+在本文下方留言并转移一些STEEM(具体请参考价格表，转移时请使用您需要激活或续费的账号支付并备注STEEMBLOGGER激活)至@jackzeng6666(看不到留言模块？请尝试通过[Steemit](https://steemit.com/steemblogger/@jackzeng6666/steemblogger)访问)，我们会将您的用户名添加至同步列表。
+
+| 使用时间 | 激活时文章数量 | 价格 |
+| --- | --- | --- |
+| 1年 | <=50 | 4STEEM |
+| 2年 | <=100 | 8STEEM |
+| 3年 | <=1000 | 16STEEM |
+| 10年 | <=1500 | 20STEEM |
+| 无限制 | 无限制 | 100STEEM |
 
 ### 感谢
 本项目基于 @robertyan 的 steemblog 服务，但该服务似乎已停止服务，因此我们派生并创建了新的项目：steemblogger。
