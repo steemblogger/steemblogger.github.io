@@ -27,3 +27,4 @@ widgets:
 - - -
 
 This page is synchronized from the post: ['RDPStudio社区STEEM平台正式开放'](https://steemit.com/@jackzeng6666/rdpstudio-steem)
+Powerd by [SteemBlogger](/).
